@@ -1,3 +1,5 @@
+This is from B2 branch.
+
 # 海洋牧场智慧可视化系统
 
 2024 NKU 软件工程课程项目。
